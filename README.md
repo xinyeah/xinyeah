@@ -24,4 +24,18 @@
 
 ---
 
+## Papers
+
+[Will This Bug-fixing Change Break Regression Testing?](https://ieeexplore.ieee.org/document/7321218)
+
+[Attention, Test Code is Low-quality!](http://ceur-ws.org/Vol-1469/paper5.pdf)
+
+---
+
+## Work & Education Experience
+
+<img src="https://github.com/xinyeah/xinyeah/microsoft.png" alt="image-20200801112815372" style="zoom:33%;" /><img src="https://github.com/xinyeah/xinyeah/hulu.png" alt="image-20200801113048944" style="zoom:43%;" /><img src="https://github.com/xinyeah/xinyeah/waterloo.png" alt="image-20200801113345496" style="zoom:25%;" /><img src="https://github.com/xinyeah/xinyeah/cas.png" alt="image-20200801113712946" style="zoom:40%;" /><img src="https://github.com/xinyeah/xinyeah/whu.png" alt="image-20200801113829977" style="zoom: 23%;" />
+
+---
+
 ![Xinye's github stats](https://github-readme-stats.vercel.app/api?username=xinyeah&hide=stars,contribs&show_icons=true&count_private=true)
