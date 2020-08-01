@@ -30,9 +30,9 @@
 
 ## Papers
 
-[Will This Bug-fixing Change Break Regression Testing?](https://ieeexplore.ieee.org/document/7321218)
+- [Will This Bug-fixing Change Break Regression Testing?](https://ieeexplore.ieee.org/document/7321218)
 
-[Attention, Test Code is Low-quality!](http://ceur-ws.org/Vol-1469/paper5.pdf)
+- [Attention, Test Code is Low-quality!](http://ceur-ws.org/Vol-1469/paper5.pdf)
 
 
 
