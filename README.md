@@ -14,7 +14,7 @@
 
 - ⚡ Fun fact: My wedding ring engraving is Patronus.
 
-  <img src="https://images.ctfassets.net/usf1vwtuqyxm/6LWiIIfCx2eQkSU8yQeq88/bd866f01c30702ceafbd72151cdfdc82/Patronus_PM_B3C21M3HarrysPatronusChargingDownDementorsAcrossTheLake.Moment.jpg?w=914" alt="Patronus" style="zoom: 70%;" />
+  <img src="https://images.ctfassets.net/usf1vwtuqyxm/6LWiIIfCx2eQkSU8yQeq88/bd866f01c30702ceafbd72151cdfdc82/Patronus_PM_B3C21M3HarrysPatronusChargingDownDementorsAcrossTheLake.Moment.jpg?w=914" alt="Patronus"  width="880"/>
 
 ---
 ##  Latest Blog Posts
@@ -34,7 +34,7 @@
 
 ## Work & Education Experience
 
-<img src="https://raw.githubusercontent.com/xinyeah/xinyeah/master/images/microsoft.png" alt="microsoft" style="zoom:33%;" /><img src="https://raw.githubusercontent.com/xinyeah/xinyeah/master/images/hulu.png" alt="image-20200801113048944" style="zoom:43%;" /><img src="https://raw.githubusercontent.com/xinyeah/xinyeah/master/images/waterloo.png" alt="image-20200801113345496" style="zoom:25%;" /><img src="https://raw.githubusercontent.com/xinyeah/xinyeah/master/images/cas.png" alt="image-20200801113712946" style="zoom:40%;" /><img src="https://raw.githubusercontent.com/xinyeah/xinyeah/master/images/whu.png" alt="image-20200801113829977" style="zoom: 23%;" />
+<img src="https://raw.githubusercontent.com/xinyeah/xinyeah/master/images/microsoft.png" alt="Microsoft" width="80"/><img src="https://raw.githubusercontent.com/xinyeah/xinyeah/master/images/hulu.png" alt="Hulu" width="80"/><img src="https://raw.githubusercontent.com/xinyeah/xinyeah/master/images/waterloo.png" alt="University of Waterloo" width="80"/><img src="https://raw.githubusercontent.com/xinyeah/xinyeah/master/images/cas.png" alt="UCAS" width="80"/><img src="https://raw.githubusercontent.com/xinyeah/xinyeah/master/images/whu.png" alt="Wuhan University" width="80"/>
 
 ---
 
