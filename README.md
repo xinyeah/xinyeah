@@ -38,7 +38,7 @@
 
 ## Work & Education Experience
 
-<img src="https://raw.githubusercontent.com/xinyeah/xinyeah/master/images/microsoft.png" alt="Microsoft" width="80"/><img src="https://raw.githubusercontent.com/xinyeah/xinyeah/master/images/hulu.png" alt="Hulu" width="80"/><img src="https://raw.githubusercontent.com/xinyeah/xinyeah/master/images/waterloo.png" alt="University of Waterloo" width="80"/><img src="https://raw.githubusercontent.com/xinyeah/xinyeah/master/images/cas.png" alt="UCAS" width="80"/><img src="https://raw.githubusercontent.com/xinyeah/xinyeah/master/images/whu.png" alt="Wuhan University" width="80"/>
+<img src="https://raw.githubusercontent.com/xinyeah/xinyeah/master/images/microsoft.png" alt="Microsoft" width="60"/><img src="https://raw.githubusercontent.com/xinyeah/xinyeah/master/images/hulu.png" alt="Hulu" width="60"/><img src="https://raw.githubusercontent.com/xinyeah/xinyeah/master/images/waterloo.png" alt="University of Waterloo" width="60"/><img src="https://raw.githubusercontent.com/xinyeah/xinyeah/master/images/cas.png" alt="UCAS" width="60"/><img src="https://raw.githubusercontent.com/xinyeah/xinyeah/master/images/whu.png" alt="Wuhan University" width="60"/>
 
 ---
 
