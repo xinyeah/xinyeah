@@ -34,7 +34,7 @@
 
 ## Work & Education Experience
 
-<img src="https://github.com/xinyeah/xinyeah/blob/master/images/microsoft.png" alt="image-20200801112815372" style="zoom:33%;" /><img src="https://github.com/xinyeah/xinyeah/blob/master/images/hulu.png" alt="image-20200801113048944" style="zoom:43%;" /><img src="https://github.com/xinyeah/xinyeah/blob/master/images/waterloo.png" alt="image-20200801113345496" style="zoom:25%;" /><img src="https://github.com/xinyeah/xinyeah/blob/master/images/cas.png" alt="image-20200801113712946" style="zoom:40%;" /><img src="https://github.com/xinyeah/xinyeah/blob/master/images/whu.png" alt="image-20200801113829977" style="zoom: 23%;" />
+<img src="https://raw.githubusercontent.com/xinyeah/xinyeah/master/images/microsoft.png" alt="microsoft" style="zoom:33%;" /><img src="https://raw.githubusercontent.com/xinyeah/xinyeah/master/images/hulu.png" alt="image-20200801113048944" style="zoom:43%;" /><img src="https://raw.githubusercontent.com/xinyeah/xinyeah/master/images/waterloo.png" alt="image-20200801113345496" style="zoom:25%;" /><img src="https://raw.githubusercontent.com/xinyeah/xinyeah/master/images/cas.png" alt="image-20200801113712946" style="zoom:40%;" /><img src="https://raw.githubusercontent.com/xinyeah/xinyeah/master/images/whu.png" alt="image-20200801113829977" style="zoom: 23%;" />
 
 ---
 
