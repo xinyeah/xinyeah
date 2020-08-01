@@ -16,13 +16,12 @@
 
   <img src="https://images.ctfassets.net/usf1vwtuqyxm/6LWiIIfCx2eQkSU8yQeq88/bd866f01c30702ceafbd72151cdfdc82/Patronus_PM_B3C21M3HarrysPatronusChargingDownDementorsAcrossTheLake.Moment.jpg?w=914" alt="Patronus"  width="880"/>
 
----
 ##  Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
----
+
 
 ## Papers
 
@@ -30,7 +29,7 @@
 
 [Attention, Test Code is Low-quality!](http://ceur-ws.org/Vol-1469/paper5.pdf)
 
----
+
 
 ## Work & Education Experience
 
