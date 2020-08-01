@@ -12,15 +12,16 @@
 
 - 📝 I regularly write articles on Microsoft Azure, Databricks, Spark, and other fun technologies. [https://xinyeah.github.io/](https://xinyeah.github.io/)
 
-  - Latest Blog Posts
-
-    <!-- BLOG-POST-LIST:START -->
-    <!-- BLOG-POST-LIST:END -->
-
-  
-
 - ⚡ Fun fact: My wedding ring engraving is Patronus.
-![Patronus](https://images.ctfassets.net/usf1vwtuqyxm/6LWiIIfCx2eQkSU8yQeq88/bd866f01c30702ceafbd72151cdfdc82/Patronus_PM_B3C21M3HarrysPatronusChargingDownDementorsAcrossTheLake.Moment.jpg?w=914)
+
+  <img src="https://images.ctfassets.net/usf1vwtuqyxm/6LWiIIfCx2eQkSU8yQeq88/bd866f01c30702ceafbd72151cdfdc82/Patronus_PM_B3C21M3HarrysPatronusChargingDownDementorsAcrossTheLake.Moment.jpg?w=914" alt="Patronus" style="zoom: 70%;" />
 
 ---
+##  Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+---
+
 ![Xinye's github stats](https://github-readme-stats.vercel.app/api?username=xinyeah&hide=stars,contribs&show_icons=true&count_private=true)
