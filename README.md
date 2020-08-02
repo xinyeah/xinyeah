@@ -19,11 +19,11 @@
 ##  Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Azure Certifications and Exams](https://xinyeah.github.io/Azure-Certifications-and-Exams/)
 - [Spark stateful streaming processing is stuck in StateStoreSave stage!](https://xinyeah.github.io/Spark-stateful-streaming-processing-is-stuck-in-StateStoreSave-stage/)
 - [Databricks Migration Guide](https://xinyeah.github.io/databricks-migration-guide/)
 - [Always flush Application Insights](https://xinyeah.github.io/always-flush-application-insights/)
 - [Java serialization is a bitch!](https://xinyeah.github.io/Java-serialization-is-a-bitch/)
-- [Deploy Spark .NET app on Databricks](https://xinyeah.github.io/deploy-spark-dotnet-app-on-databricks/)
 <!-- BLOG-POST-LIST:END -->
 
 
