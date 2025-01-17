@@ -29,6 +29,7 @@
 ##  Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft Defender for Key Vault - Deploy to Azure Synapse Analytics](https://techcommunity.microsoft.com/blog/microsoftdefendercloudblog/microsoft-defender-for-key-vault---deploy-to-azure-synapse-analytics/3201308)
 - [Microsoft Defender for Key Vault](https://techcommunity.microsoft.com/blog/microsoftdefendercloudblog/microsoft-defender-for-key-vault/1825055)
 - [Azure Defender for Key Vault just released!](https://xinyeah.github.io/Azure-Defender-for-Key-Vault-just-released/)
 - [Azure Certifications and Exams](https://xinyeah.github.io/Azure-Certifications-and-Exams/)
