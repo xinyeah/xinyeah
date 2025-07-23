@@ -18,6 +18,8 @@
 
 
 ## Papers
+- [Dynamic Context-Aware Prompt Recommendation for Domain-Specific AI Applications](https://arxiv.org/abs/2506.20815)
+  
 - [MAGIC: Generating Self-Correction Guidelines for In-Context Text-to-SQL](https://arxiv.org/pdf/2406.12692.pdf)
   
 - [NL2KQL: From Natural Language to Kusto Query](https://arxiv.org/pdf/2404.02933.pdf)
@@ -29,6 +31,9 @@
 ##  Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Smarter Prompts for Smarter Investigations: Dynamic Prompt Suggestions in Security Copilot](https://techcommunity.microsoft.com/blog/securitycopilotblog/smarter-prompts-for-smarter-investigations-dynamic-prompt-suggestions-in-securit/4432135)
+- [Advancing Security Copilot with MAGIC: Automating Self-Correction in NL2KQL and Beyond](https://techcommunity.microsoft.com/blog/securitycopilotblog/advancing-security-copilot-with-magic-automating-self-correction-in-nl2kql-and-b/4390932)
+- [Empowering Security Copilot with NL2KQL: Transforming Natural Language into Insightful KQL queries](https://techcommunity.microsoft.com/blog/securitycopilotblog/empowering-security-copilot-with-nl2kql-transforming-natural-language-into-insig/4388930)
 - [Microsoft Defender for Key Vault - Deploy to Azure Synapse Analytics](https://techcommunity.microsoft.com/blog/microsoftdefendercloudblog/microsoft-defender-for-key-vault---deploy-to-azure-synapse-analytics/3201308)
 - [Microsoft Defender for Key Vault](https://techcommunity.microsoft.com/blog/microsoftdefendercloudblog/microsoft-defender-for-key-vault/1825055)
 - [Azure Defender for Key Vault just released!](https://xinyeah.github.io/Azure-Defender-for-Key-Vault-just-released/)
